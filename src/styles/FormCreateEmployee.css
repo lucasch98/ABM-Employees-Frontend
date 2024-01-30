@@ -1,0 +1,8 @@
+input {
+  width: 500px;
+  padding: 3px;
+}
+
+input:hover {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}

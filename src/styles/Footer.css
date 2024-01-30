@@ -1,0 +1,7 @@
+footer {
+  background-color: #2d2d2d; /* Color de fondo del footer */
+  color: #e6a60a;
+  padding: 20px 0; /* Espaciado interno del footer */
+  text-align: center;
+  border-top: 2px solid #daa520;
+}

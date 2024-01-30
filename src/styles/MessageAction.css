@@ -1,0 +1,32 @@
+.success-message {
+  background-color: #4CAF50;
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  display: none;
+  text-align: center;
+}
+
+.success-message-update {
+  background-color: #4CAF50;
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  display: none;
+  text-align: center;
+}
+
+.delete-message {
+  background-color: salmon;
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  display: none;
+  text-align: center; 
+}
