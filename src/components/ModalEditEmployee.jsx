@@ -120,7 +120,7 @@
                 <Col>
                   <span style={{color: "red"}}>*</span>
                   <label htmlFor="nombre">Phone</label>
-                  <input type="number" id="phone_employee" value={employee.phone} onChange={(e) => handleChange("phone", e)} className="form-control" required placeholder='2914356789'/>
+                  <input type="text" id="phone_employee" value={employee.phone} onChange={(e) => handleChange("phone", e)} className="form-control" required placeholder='2914356789'/>
                 </Col>
               </Row>
                 
